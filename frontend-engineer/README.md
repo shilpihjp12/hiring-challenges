@@ -6,11 +6,11 @@ The code is created in ReactJS. Motivation for using ReactJS is right now i am u
 # Step to run
   1. clone the code
   2. open command prompt
-  3. run "npm i"
-  4. run "npm start"
+  3. run **npm i**
+  4. run **npm start**
   
   
-**Note: I was not able to work for many times in the code as there is only one commit available.
+**Note: I was not able to work for many times in the code as there is only one commit available.**
 
 
 # The challenge (Frontend Engineer)
